@@ -1,0 +1,24 @@
+.search-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.table-container1 {
+  width: 80%;
+  margin: auto;
+  margin-top: 40px;
+}
+.search-section {
+  display: flex;
+  align-items: center;
+}
+.input-section {
+  max-height: 10vh;
+}
+
+.tabel-row-pointer {
+  cursor: pointer;
+}
+.wid{
+  max-width: 10px;
+}
